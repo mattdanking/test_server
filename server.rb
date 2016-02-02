@@ -7,3 +7,7 @@ end
 get '/sinatra' do
   "Hello Sinatra!"
 end
+
+get '/index.html' do
+  "Hellooooo"
+end
